@@ -1,0 +1,7 @@
+stuff7/static
+stuff7/staticfiles
+stuff7/templates
+db.sqlite3
+**/__pycache__
+.env
+.venv
